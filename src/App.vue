@@ -129,10 +129,9 @@
         </v-container>
       </v-tab-item>
     </v-tabs-items>
-  </v-card>
-  <v-footer color="black" dark padless>
+    <v-footer color="black" dark padless>
       <v-col class="text-center" cols="12">
-        <span>Sígueme en Instagram: </span>
+        <span>Instagram: </span>
         <a
           href="https://www.instagram.com/Foster.js"
           target="_blank"
@@ -141,6 +140,7 @@
         >
       </v-col>
     </v-footer>
+  </v-card>
 </template>
 <script>
 export default {
